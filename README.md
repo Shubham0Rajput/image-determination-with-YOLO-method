@@ -41,7 +41,7 @@ YOLOv3/data/
 
 Also 
 ---------------------------------
-The already stored photo to Detection of Cat and Dog can be changed 
+The already stored photo to Detection of object can be changed 
 #### Change the "image" in code ####
 
 
